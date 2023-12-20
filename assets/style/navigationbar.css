@@ -1,0 +1,35 @@
+header {
+  background-color: #ffffff;
+}
+
+#navigation {
+  /* width: 100%; */
+  border-radius: 74px;
+  /* display: flex; */
+  flex-direction: row;
+  background-color: #fbf7e3;
+  justify-content: center;
+  /* height: 200px; */
+  align-items: center;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-around;
+}
+
+li {
+  display: flex;
+  background-color: #f3df85;
+  margin-right: 1em;
+  padding: 1em;
+  border-radius: 40px;
+  color: #612406;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+img {
+  width: 50px;
+}
